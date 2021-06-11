@@ -1,5 +1,5 @@
-# myblog
- # About the Project
+# MyBlog
+# About the Project
 Blog Site using PHP/MySQL project has two sides of users, which is the Admin Side and User Side. Admin Side will manage the content of the website, such as the category of content and the articles. On the User side, users will only view and read the article published by the admin. Follow the steps below to run this project.
 
 # Installation
@@ -11,6 +11,6 @@ Blog Site using PHP/MySQL project has two sides of users, which is the Admin Sid
 6. Open a web browser and browse the project. [ http://localhost/Blog-Site-Using-PHP ]
 7. Browse [ http://localhost/Blog-Site-Using-PHP/admin ] to access the admin side of the project.
 
-# Admin Default Access:
+# Admin Default Access:Cancel changes
 Username: admin
 Password: admin123
