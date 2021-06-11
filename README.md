@@ -8,8 +8,8 @@ Blog Site using PHP/MySQL project has two sides of users, which is the Admin Sid
 3. Open your web server database and create a new database name it blog_db.
 4. Import the SQL file located in the database folder of the source code.
 5. Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
-6. Open a web browser and browse the project. [ http://localhost/Blog-Site-Using-PHP ]
-7. Browse [ http://localhost/Blog-Site-Using-PHP/admin ] to access the admin side of the project.
+6. Open a web browser and browse the project. [ http://localhost/php-myblog ]
+7. Browse [ http://localhost/php-myblog/admin ] to access the admin side of the project.
 
 # Admin Default Access:Cancel changes
 Username: admin
